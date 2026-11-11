@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "JORTAX",
+    "slug": "jortax",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "com.jortax.app",
+      "versionCode": 1,
+      "permissions": ["ACCESS_COARSE_LOCATION", "ACCESS_FINE_LOCATION"]
+    },
+    "ios": {
+      "bundleIdentifier": "com.jortax.app"
+    }
+  }
+}
